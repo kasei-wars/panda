@@ -2,18 +2,9 @@ body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform: uppercase;
     color: #000 !important;
-    text-align:center !important;
+    text-indent:50px;
     font-size:10px;
     line-height:12px;
-}
-
-.container {
-    position:relative;
-    width:900px;
-    height:900px;
-    margin: 0 auto;
-    background-image:url("panda.png");
-    background-color:transparent;
 }
 
 b {
