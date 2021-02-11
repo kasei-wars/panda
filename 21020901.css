@@ -2,7 +2,6 @@ body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform: uppercase;
     color: #000 !important;
-    text-indent:50px;
     font-size:10px;
     line-height:12px;
 }
@@ -31,6 +30,10 @@ h {
     color:#fff;
     padding-left:2px;
     padding-right:2px;
+}
+
+p {
+    text-indent:50px;
 }
 
 h1 {
